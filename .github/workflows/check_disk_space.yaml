@@ -8,6 +8,16 @@ jobs:
   check-disk-space:
     runs-on: ubuntu-latest
     steps:
-      - name: df -h
+      - name: df -h (before free disk)
         run: df -h
-        
+      
+      - name: free disk space
+        uses: jlumbroso/free-disk-space
+        with:
+          tool-cache: false
+          dotnet: false
+          swap-storage: false
+          large-packages: false
+      
+      - name: df -h(after free disk)
+        run: df -h
