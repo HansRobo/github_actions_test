@@ -2,7 +2,7 @@
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
   <name>my_package</name>
-  <version>0.0.2</version>
+  <version>0.0.3</version>
   <description>Package description</description>
   <maintainer email="pythagora.yoshimoto@gmail.com">kotaroyoshimoto</maintainer>
   <license>TODO: License declaration</license>
