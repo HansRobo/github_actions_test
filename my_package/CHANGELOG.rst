@@ -2,6 +2,12 @@
 Changelog for package my_package
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.2 (2024-11-29)
+------------------
+* Merge pull request `#5 <https://github.com/HansRobo/github_actions_test/issues/5>`_ from HansRobo/HansRobo-patch-4
+* Update package.xml
+* Contributors: Kotaro Yoshimoto
+
 0.0.1 (2024-11-29)
 ------------------
 * Merge pull request `#3 <https://github.com/HansRobo/github_actions_test/issues/3>`_ from HansRobo/HansRobo-patch-3
